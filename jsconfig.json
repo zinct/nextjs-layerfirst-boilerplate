@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/core/*": ["src/core/*"],
+      "@/components/*": ["src/core/components/*"],
+      "@/hoc/*": ["src/core/hoc/*"],
+      "@/hooks/*": ["src/core/hooks/*"],
+      "@/utils/*": ["src/core/utils/*"],
+      "@/errors/*": ["src/core/errors/*"],
+      "@/styles/*": ["src/core/styles/*"],
+      "@/features/*": ["src/features/*"],
+      "@/helpers/*": ["src/core/helpers/*"]
+    }
+  }
+}

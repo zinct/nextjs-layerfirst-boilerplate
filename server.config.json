@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "next-suksesku",
+      "script": "yarn run start --port 3003"
+    }
+  ]
+}
+
